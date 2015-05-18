@@ -1,0 +1,25 @@
+
+
+To install joomla see this video
+https://www.youtube.com/watch?v=MH36mH88iDA
+
+can get at the joomla this way based on the folder name I gave it.
+localhost/myJoomlaTest
+
+NOW Configure Joomla:
+language:
+sitename: Joomla3 Test
+Desc:
+Email: Rick_maclean@sil.org
+Admin Username: rickMac        (note Case Sensitive)
+Password: none
+
+Choose install with sample data if I am new to Joomla
+Default English (GB) Sample Data
+
+If everything under pre-installation check is green you are good to go.
+
+http://localhost/myJoomlaTest/administrator    how to access the admin panel
+
+
+=====================================================================================================================
