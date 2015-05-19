@@ -26,6 +26,10 @@ Creating Custom Joomla Templates with Matt Thomas
 
 https://www.youtube.com/watch?v=TMOzNaZm9yg
 
+Basics of Creating a Basic Joomla Template from Scratch: Part 1
+
+https://www.youtube.com/watch?v=610d6qiie6I
+
 =====================================================================================================================
 
 Creating a very basic template
