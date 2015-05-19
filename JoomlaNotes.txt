@@ -21,5 +21,25 @@ If everything under pre-installation check is green you are good to go.
 
 http://localhost/myJoomlaTest/administrator    how to access the admin panel
 
+===============================================================================================================
+Creating Custom Joomla Templates with Matt Thomas
+
+https://www.youtube.com/watch?v=TMOzNaZm9yg
 
 =====================================================================================================================
+
+Creating a very basic template
+https://docs.joomla.org/Creating_a_basic_Joomla!_template#Testing_the_template
+
+In the Joomla! 2.5 series and later, you first need to tell Joomla! that you have created a new template. This feature is called 
+Discover Extensions and can be accessed via Extensions -> Extension Manager -> Discover (i.e. the Discover tab). Click Discover 
+(i.e. the Discover button) to discover your template, then select it and click Install to install it. Now your template should 
+show up in the Template Manager (Styles), accessible via Extensions -> Template Manager.
+
+I did this instead:
+Extension Manager : Install : Install from Directory : put in the following path and it worked!!!!! YAY!
+C:\xampp\htdocs\myJoomlaTest\templates\rickstemplate
+
+
+============================================================================================================================
+
